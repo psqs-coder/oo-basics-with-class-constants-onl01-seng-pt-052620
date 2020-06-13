@@ -6,6 +6,7 @@ class Shoe
 
   def intialize brand
     @brands = brands
+    
     BRANDS << @brands
     end 
   

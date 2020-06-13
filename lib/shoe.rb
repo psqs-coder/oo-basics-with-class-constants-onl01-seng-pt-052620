@@ -4,8 +4,9 @@ class Shoe
   
   BRANDS = [][]
 
-  def brands
+  def brands=(brand)
     @brands = brands
+    
     
   end 
   
